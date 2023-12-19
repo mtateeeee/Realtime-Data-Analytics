@@ -1,2 +1,2 @@
 # Realtime-Data-Analytics
-Project Overview
+Project Overview: Yelp is a platform that allows people to post reviews and provide a star rating to businesses that they have visited. Studies found that a one-star raise led to a 59 percent gain in revenue for independently owned and operated firms. As a consequence of this, we think the Yelp dataset has a lot of promise as a resource for gaining valuable insights. Yelp reviews written by customers are a treasure trove just waiting to be unearthed.
